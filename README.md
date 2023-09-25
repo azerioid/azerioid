@@ -3,11 +3,14 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+  <br>
 [![Linkedin: ramilhuseynov](https://img.shields.io/badge/-ramilhuseynov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ramilhuseynov/)](https://www.linkedin.com/in/ramilhuseynov/)    ![ViewCount](https://komarev.com/ghpvc/?username=azerioid&color=1A5625)
 [![GitHub Thaiane](https://img.shields.io/github/followers/azerioid?label=follow&style=social)](https://github.com/azerioid)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azerioid&layout=compact&theme=gotham&custom_title=Statistics)<br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=azerioid&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)<br><br>
+
+![Ramil's GitHub stats](https://github-readme-stats.vercel.app/api?username=azerioid&hide=contribs,prs)
+<br><br>
 
 ### Languages and Tools
 
