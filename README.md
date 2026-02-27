@@ -7,9 +7,7 @@
 [![Linkedin: ramilhuseynov](https://img.shields.io/badge/-ramilhuseynov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ramilhuseynov/)](https://www.linkedin.com/in/ramilhuseynov/)    ![ViewCount](https://komarev.com/ghpvc/?username=azerioid&color=1A5625)
 [![GitHub Thaiane](https://img.shields.io/github/followers/azerioid?label=follow&style=social)](https://github.com/azerioid)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azerioid&layout=compact&theme=gotham&custom_title=Statistics)<br><br>
 
-![Ramil's GitHub stats](https://github-readme-stats.vercel.app/api?username=azerioid&hide=contribs,prs)
 <br><br>
 
 ### Languages and Tools
